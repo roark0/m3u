@@ -1,0 +1,1515 @@
+#EXTM3U
+#EXTINF:-1 group-title="公众号：iOS小萝卜" tvg-logo="https://cdn.lbbb.tk/lb.png", 🎉 公众号：iOS小萝卜
+https://git.lbbb.tk/m3u/bg.m3u8
+#EXTINF:-1 group-title="未分类",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:-1 group-title="未分类",日本A&G声优广播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1 group-title="未分类",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="未分类",增城综合
+http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8codeyj
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",AL Jazeera FHD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
+http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8codeyj
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
+http://39.135.138.58:18890/PLTV/88888910/224/3221225624/index.m3u8codeyj
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="未分类",龙江卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
+http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
+http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8codeyj
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视蓝光
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="未分类",青海安多卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12
+http://39.135.138.58:18890/PLTV/88888910/224/3221225637/index.m3u8codeyj
+#EXTINF:-1 group-title="未分类",CCX Media North Brooklyn
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
+http://39.135.138.58:18890/PLTV/88888910/224/3221225640/index.m3u8codeyj
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="未分类",安多卫视
+http://111.40.196.28/PLTV/88888888/224/3221225666/index.m3u8?zweimd
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视(高清)
+http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="未分类",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="未分类",香港佛陀教育协会(大陆线路)
+http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png",康巴卫视
+http://111.40.196.38/PLTV/88888888/224/3221225648/index.m3u8?zweimd
+#EXTINF:-1 group-title="未分类",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_31
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_10
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_12
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225799/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16奥林匹克
+http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_43
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
+#EXTINF:-1 group-title="未分类",洪雅新闻综合
+http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_20
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225834/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_28
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_24
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8
+#EXTINF:-1 group-title="未分类",山东文旅
+http://119.164.216.162:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png",山东综艺
+http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="未分类",山东新闻
+http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png",山东少儿
+http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png",山东体育
+http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png",山东齐鲁
+http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png",山东生活
+http://119.164.216.162:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_8
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8
+#EXTINF:-1 group-title="未分类",伊宁汉语综合
+http://222.81.61.37:9898/out_1/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8K
+http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
+#EXTINF:-1 group-title="未分类",三立Live新闻
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png",三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="未分类",BigLife TV
+http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="未分类",霍尔果斯综合
+http://117.190.118.175:9090/stream1/m2e2000.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
+http://117.148.129.85:80/PLTV/88888888/224/3221233413/1.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_18
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_22
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png",智林体育
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分类",咪咕11
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_23
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+#EXTINF:-1 group-title="未分类",宁强1
+http://111.20.33.93/PLTV/88888893/224/3221226390/index.m3u8
+#EXTINF:-1 group-title="未分类",咪咕4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 group-title="未分类",咪咕1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-风中有朵雨做的云
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-雾里看花
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",叶倩文-我的爱对你说
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-一个爱上浪漫的人
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/DpBYbctgwaRj7bEYzFn%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",咪咕8
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 group-title="未分类",吕方-朋友别哭
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-爱你太深
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",咪咕3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 group-title="未分类",渭南
+http://111.20.33.93/PLTV/88888893/224/3221226376/index.m3u8
+#EXTINF:-1 group-title="未分类",咪咕10
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 group-title="未分类",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="未分类",咪咕2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 group-title="未分类",咪咕7
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="未分类",宁强2
+http://111.20.33.93/PLTV/88888893/224/3221226389/index.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-把思念寄托远方
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",新咪咕广西_9
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225792/index.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-相爱的可能性
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-不下雨就出太阳吧
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",美国DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",赤峰综合频道
+http://vfile.cfrtv.cn/2017/1484/6248/0267/148462480267.ssm/148462480267.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="未分类",美国新罕布什尔州罗金厄姆县拉伊镇RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",美国纽约州威彻斯特郡哈得孙河畔黑斯廷斯村WHOH
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="未分类",鄂托克旗电视台
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 group-title="未分类",CCTV阿语频道
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="未分类",枞阳综合频道
+http://112.27.89.235:8008/out_1/index.m3u8
+#EXTINF:-1 group-title="未分类",四川乡村频道
+http://182.151.211.171:808/hls/57/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
+http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&RTS=1648965019&from=79102&ocs=2_117.169.120.241_8080&hms_devid=1402&online=1648965019&vqe=3
+#EXTINF:-1 group-title="未分类",雅安雨城频道
+http://m3u8.ycchannel.yatv.tv/cms/videos/nmip-media-yc/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="未分类",和田维语综合
+http://202.107.188.141:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 group-title="未分类",美国Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 group-title="未分类",俄罗斯RBC (Opt-1)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France 24 HD
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News Live 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 group-title="未分类",烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1 group-title="未分类",徐州-3
+http://183.207.249.7/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 group-title="未分类",黑莓动画
+http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV动画王国
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC 2 Baton Rouge LA (WB
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",法国France 24
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="未分类",徐州-4
+http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 group-title="未分类",杭州体育
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",西班牙中国环球电视网CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="未分类",CCTV西班牙语频道
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News Live 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",CCTV老故事
+http://111.20.33.70/PLTV/88888893/224/3221226236/index.m3u8
+#EXTINF:-1 group-title="未分类",咸阳1
+http://111.20.33.93/PLTV/88888893/224/3221226372/index.m3u8
+#EXTINF:-1 group-title="未分类",EDGESport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
+http://117.169.120.140:8080/live/gansustv/.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
+http://117.169.120.140:8080/live/hdtianjinstv/.m3u8
+#EXTINF:-1 group-title="未分类",延安新闻综合
+http://111.20.33.93/PLTV/88888893/224/3221226374/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="未分类",陕西农林卫视
+http://111.20.33.93/PLTV/88888893/224/3221226229/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="未分类",山东教育卫视
+http://111.20.33.70/PLTV/88888893/224/3221226238/index.m3u8
+#EXTINF:-1 group-title="未分类",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png",FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 group-title="未分类",农林卫视
+http://111.20.33.70/PLTV/88888893/224/3221226229/index.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文(备)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="未分类",吉州新闻综合
+http://218.204.153.158/10.m3u8
+#EXTINF:-1 group-title="未分类",宝鸡1
+http://111.20.33.93/PLTV/88888893/224/3221226381/index.m3u8
+#EXTINF:-1 group-title="未分类",美国TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 group-title="未分类",EDGEsport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",Comet | HD
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="未分类",波兰TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 group-title="未分类",遂宁新闻综合
+http://play.sngdxsn.com/live/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="未分类",德国MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 group-title="未分类",Charge! | HD
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png",MTV
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png",CCTV发现之旅
+http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
+http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 group-title="未分类",陕视直播
+http://111.20.33.93/PLTV/88888893/224/3221226408/index.m3u8
+#EXTINF:-1 group-title="未分类",娄底综合(高清)
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="未分类",陕西影视
+http://111.20.33.93/PLTV/88888893/224/3221226360/index.m3u8
+#EXTINF:-1 group-title="未分类",浙江杭州千岛湖
+https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 group-title="未分类",宝鸡2
+http://111.20.33.93/PLTV/88888893/224/3221226384/index.m3u8
+#EXTINF:-1 group-title="未分类",CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 group-title="未分类",CNC英文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女性时尚
+http://111.20.33.70/PLTV/88888893/224/3221226237/index.m3u8
+#EXTINF:-1 group-title="未分类",铜川2
+http://111.20.33.93/PLTV/88888893/224/3221226380/index.m3u8
+#EXTINF:-1 group-title="未分类",张家界天门山云梦仙顶
+https://gccncc.v.wscdns.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 group-title="未分类",商洛1
+http://111.20.33.93/PLTV/88888893/224/3221226378/index.m3u8
+#EXTINF:-1 group-title="未分类",安徽淮南凤台县文化生活
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",拉脱维亚TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 group-title="未分类",铜川1
+http://111.20.33.93/PLTV/88888893/224/3221226379/index.m3u8
+#EXTINF:-1 group-title="未分类",美国Retro TV(戏剧)
+http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8
+#EXTINF:-1 group-title="未分类",美国LifevisionTV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类",陕西·西安丝路
+http://stream2.xiancity.cn/xatv5/playlist.m3u8
+#EXTINF:-1 group-title="未分类",美国Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+#EXTINF:-1 group-title="未分类",Charge! USA | HD
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="未分类",云台山百家岩
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 group-title="未分类",西乡
+http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
+#EXTINF:-1 group-title="未分类",安塞
+http://111.20.33.93/PLTV/88888893/224/3221226388/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News Live 5
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 group-title="未分类",Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="未分类",希腊Ionian Channel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 group-title="未分类",长治公共(高清)
+http://111.53.105.2:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
+#EXTINF:-1 group-title="未分类",俄罗斯Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1 group-title="未分类",韩国教育台
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="未分类",四川电影(高清)
+http://182.151.211.171:808/hls/58/index.m3u8
+#EXTINF:-1 group-title="未分类",延安公共
+http://111.20.33.93/PLTV/88888893/224/3221226375/index.m3u8
+#EXTINF:-1 group-title="未分类",榆林1
+http://111.20.33.93/PLTV/88888893/224/3221226377/index.m3u8
+#EXTINF:-1 group-title="未分类",Motorvisison TV | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="未分类",Wu Tang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 group-title="未分类",陕西体育休闲
+http://111.20.33.93/PLTV/88888893/224/3221226363/index.m3u8
+#EXTINF:-1 group-title="未分类",LoveNature HD
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",陕西生活
+http://111.20.33.93/PLTV/88888893/224/3221226358/index.m3u8
+#EXTINF:-1 group-title="未分类",陕西西部电影
+http://111.20.33.93/PLTV/88888893/224/3221226364/index.m3u8
+#EXTINF:-1 group-title="未分类",昆明科学教育
+http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
+#EXTINF:-1 group-title="未分类",昆明影视综艺
+http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8
+#EXTINF:-1 group-title="未分类",佛坪
+http://111.20.33.93/PLTV/88888893/224/3221226454/index.m3u8
+#EXTINF:-1 group-title="未分类",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 group-title="未分类",昆明公共频道
+http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
+#EXTINF:-1 group-title="未分类",玉龙雪山白水台
+https://gccncc.v.wscdns.com/gc/hkylxs07_1/index.m3u8
+#EXTINF:-1 group-title="未分类",昆明经济生活
+http://wshls.live.migucloud.com/live/JT9JEQ54_C0_2/playlist.m3u8
+#EXTINF:-1 group-title="北京" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",北京冬奥纪实
+http://111.20.33.93/TVOD/88888893/224/3221226232/index.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",极速汽车(高清)
+http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",陕西公共
+http://111.20.33.93/PLTV/88888893/224/3221226361/index.m3u8
+#EXTINF:-1 group-title="未分类",PBS Kids Eastern/Central
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 group-title="未分类",昆明电视台1套
+http://wshls.live.migucloud.com/live/01YCQY7M_C0/playlist.m3u8
+#EXTINF:-1 group-title="未分类",昆明电视台2套
+http://wshls.live.migucloud.com/live/JT9JEQ54_C0/playlist.m3u8
+#EXTINF:-1 group-title="未分类",洛阳综合频道
+http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8
+#EXTINF:-1 group-title="未分类",洛阳文旅频道
+http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8
+#EXTINF:-1 group-title="未分类",洛阳科教频道
+http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8
+#EXTINF:-1 group-title="未分类",陕西新闻资讯
+http://111.20.33.93/PLTV/88888893/224/3221226357/index.m3u8
+#EXTINF:-1 group-title="未分类",法治天地(高清)
+http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",陇川综合(高清)
+http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+#EXTINF:-1 group-title="未分类",金色学堂(高清)
+http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",东方电影(高清)
+http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",腾冲综合(高清)
+http://live.ynurl.com/video/s10012-TCTV/index.m3u8
+#EXTINF:-1 group-title="未分类",常宁综合(高清)
+http://59.51.68.40:1936/live/cntv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",甘肃都市(高清)
+http://39.134.32.102:6610/270000001111/1110000324/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="未分类",甘肃少儿(高清)
+http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="未分类",甘肃文化(高清)
+http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="未分类",东方购物HD
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+#EXTINF:-1 group-title="未分类",甘肃经济(高清)
+http://39.134.32.102:6610/270000001111/1110000326/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="未分类",新华中文
+http://39.135.138.60:18890/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC 7 Denver (KMGH)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="未分类",俄罗斯Mir 24 (Opt-1)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC 2 WMAR
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
+#EXTINF:-1 group-title="未分类",NBC WTMJ4
+https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",上海全纪实(高清)
+http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",NBC 26 Green Bay WI (WGB
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="未分类",动画电影
+http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
+#EXTINF:-1 group-title="未分类",Watch it Kids TV | HD 72
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 group-title="未分类",纯享4k
+http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC Las Vegas NV
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC Phoenix AZ
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",延边卫视
+http://111.20.33.70/PLTV/88888893/224/3221226220/index.m3u8
+#EXTINF:-1 group-title="未分类",Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",WLS TV News
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
+#EXTINF:-1 group-title="未分类",KESQ Livestream Alert
+https://content.uplynk.com/channel/edcc7b94bf074eaf8df9fc6454b0086b.m3u8
+#EXTINF:-1 group-title="未分类",新华英语
+http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
+#EXTINF:-1 group-title="未分类",Watch it Scream TV | HD
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
+#EXTINF:-1 group-title="未分类",WPEC CBS12 News
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1 group-title="未分类",俄罗斯Mirtv
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="未分类",新闻13台
+http://183.207.249.11/PLTV/3/224/3221225560/index.m3u8?zzhongd
+#EXTINF:-1 group-title="未分类",KTLA 5 Los Angeles CA (1
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",WTVD TV News
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
+#EXTINF:-1 group-title="未分类",山西公共
+http://liveflash.sxrtv.com/live/sxpublic.m3u8
+#EXTINF:-1 group-title="未分类",山西经济与科技
+http://liveflash.sxrtv.com/live/sxfinance.m3u8
+#EXTINF:-1 group-title="未分类",山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8
+#EXTINF:-1 group-title="未分类",遂宁公共频道
+http://play.sngdxsn.com/live/gggy/playlist.m3u8
+#EXTINF:-1 group-title="未分类",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8
+#EXTINF:-1 group-title="未分类",黄河电视台
+http://liveflash.sxrtv.com/live/huanghe.m3u8
+#EXTINF:-1 group-title="未分类",CRACKLE XumoTV | HD
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",乌克兰M2-Ukraina音乐频道
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",全纪实
+http://111.20.33.70/PLTV/88888893/224/3221226580/index.m3u8
+#EXTINF:-1 group-title="未分类",运城新闻(高清)
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 group-title="未分类",北碚综合(高清)
+http://222.178.181.121:12034/beibei01.m3u8
+#EXTINF:-1 group-title="四川" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png",四川妇女儿童
+http://182.151.211.171:808/hls/55/index.m3u8
+#EXTINF:-1 group-title="未分类",黑莓电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="未分类",运城科技(高清)
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+#EXTINF:-1 group-title="未分类",运城公共(高清)
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+#EXTINF:-1 group-title="未分类",云台山小寨沟
+https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png",广东少儿(高清)
+http://61.143.45.150:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="未分类",松桃新闻
+http://live.strmtzx.cn/stxw/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",CCTV法语频道
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="未分类",净空老法师讲经直播台(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",网络念佛堂(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="未分类",悟道法师讲经(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 group-title="未分类",系念法会(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="未分类",悟道法师讲经(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 group-title="未分类",化隆综合
+http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+#EXTINF:-1 group-title="未分类",网络念佛堂(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="未分类",华山
+https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",张家界将军列队
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",云南大理崇圣寺三塔中景
+https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="未分类",泰山太平岭
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="未分类",泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",泰山玉皇顶西
+https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png",上海新闻(高清)
+http://111.40.196.36/wh7f454c46tw3313992406_1474476423/PLTV/88888888/224/3221225499/index.m3u8?icpid=88888888&RTS=1647065909&from=1&hms_devid=63
+#EXTINF:-1 group-title="未分类",牡丹江雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="未分类",南天一柱
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",徐州新闻综合
+http://183.207.248.11/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 group-title="未分类",黄果树瀑布银链坠潭瀑布
+https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 group-title="未分类",丽江古城大研花巷观景
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="未分类",嵩山少林寺胜观峰
+https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
+#EXTINF:-1 group-title="未分类",浙江乌镇蓝印花布
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="未分类",峨眉云海日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",都江堰鱼嘴
+https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="未分类",嘉峪关长城
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",丹霞山丹梯铁锁
+https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏徐州云龙湖风景区云龙山观景台南
+https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 group-title="未分类",咪咕9
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 group-title="未分类",乐山大佛全景
+https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="未分类",置业频道(高清)
+http://111.20.33.93/TVOD/88888893/224/3221226241/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News Live 4
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 group-title="未分类",咪咕5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 group-title="未分类",恒山悬空寺侧景
+https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 group-title="未分类",俄罗斯Muz Sojuz
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="未分类",武夷山大红袍茶园
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",安徽省池州市九华山风景区
+https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="未分类",印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",张家界武陵源景区宝峰湖
+https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="未分类",印尼ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="未分类",CETV-4
+http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
+#EXTINF:-1 group-title="未分类",CETV-3
+http://111.20.33.70/PLTV/88888893/224/3221226226/index.m3u8
+#EXTINF:-1 group-title="未分类",云南红河哈尼梯田普高老寨
+https://gccncc.v.wscdns.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 group-title="未分类",MySports 1
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",WPVI-TV News
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:-1 group-title="未分类",湘潭综合(高清)
+http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8
+#EXTINF:-1 group-title="未分类",云台山红石峡
+https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 group-title="未分类",丽江古城大水车
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="未分类",十八洞村
+https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",广东省深圳市甘坑客家小镇
+https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",四川凉山彝族自治州西昌市邛海景区
+https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",洛宁综合(高清)
+http://wshls.live.migucloud.com/live/WJ1E4VDQ_C0/playlist.m3u8
+#EXTINF:-1 group-title="未分类",PIX11 (New York)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 group-title="未分类",烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="未分类",烟台公共频道
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 group-title="未分类",天涯鸟瞰
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",衡水新闻综合
+http://hls.hsrtv.cn/hls/hstv1.m3u8
+#EXTINF:-1 group-title="未分类",俄罗斯Shanson TV (Opt-2)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="未分类",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="未分类",福建武夷山印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 group-title="未分类",雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="未分类",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 group-title="未分类",电影-5
+http://bp-caster.bestv.com.cn/480/1/video.m3u8
+#EXTINF:-1 group-title="未分类",泰山大观峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",南京生活(高清)
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="未分类",江苏·南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="未分类",江苏·南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="未分类",中央电视塔中塔西
+https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 group-title="未分类",爱上4K
+http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏·南京教科
+http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="未分类",宁夏黄河大峡谷
+https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏·南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧(高清)
+http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",恒山悬空寺全景
+https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="未分类",贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",桂林漓江景区
+https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="未分类",张家界武陵源景区迷魂台
+https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="未分类",石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 group-title="未分类",黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",上海外语(高清)
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",新华中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1 group-title="未分类",湘西凤凰古城南华山
+https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 group-title="未分类",芜湖新闻(高清)-02
+http://play.wuhunews.cn/whbtv/channel1_sd.m3u8
+#EXTINF:-1 group-title="未分类",净空老法师讲经直播台(香港线路)
+https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",系念法会(香港线路)
+https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="未分类",陕西 I 西安丝路
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",池州新闻(高清)
+http://cm.wshls.homecdn.com/live/829f.m3u8
+#EXTINF:-1 group-title="未分类",济铁电视(高清)
+https://jsylivealone302.iqilu.com/jitie/jitie_tv01.m3u8
+#EXTINF:-1 group-title="未分类",涡阳新闻(高清)-02
+http://111.39.71.77:8099/live/one/playlist.m3u8
+#EXTINF:-1 group-title="未分类",荆州公共(高清)
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1672502399-0-0-dd8f147fdd4d8fa5cf320242c32b4ecd
+#EXTINF:-1 group-title="未分类",宜宾公共频道
+http://p2.weizan.cn/48393/333752817375588805/live.m3u8
+#EXTINF:-1 group-title="未分类",济宁综合频道
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+#EXTINF:-1 group-title="未分类",山东济宁公共频道
+http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8
+#EXTINF:-1 group-title="未分类",梅州综合(高清)
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
+#EXTINF:-1 group-title="未分类",济宁图文频道
+http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8
+#EXTINF:-1 group-title="未分类",济宁教育
+http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
+#EXTINF:-1 group-title="未分类",日照科教频道
+http://live.rzw.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",江西公共农业
+http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="未分类",宿州公共频道
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 group-title="未分类",正安综合
+http://pili-live-hls.221.i2863.com/i2863-221/live_221_315303.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png",大爱1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="未分类",宿州科教频道
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏·张家港综合HD
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 group-title="未分类",峨眉山远眺贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",福建漳州醉美沙滩翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="未分类",济南铁路(高清)
+https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
+#EXTINF:-1 group-title="未分类",瑞丽频道(高清)
+http://live.ynurl.com/video/s10021-rltv/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏 I 连云港综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",太谷新闻(高清)
+https://p2.weizan.cn/1725814272/035167554667993420/live.m3u8
+#EXTINF:-1 group-title="未分类",雅安新闻综合
+https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="未分类",桂平综合(高清)
+https://p2.weizan.cn/1483720625/592579884798131053/live.m3u8
+#EXTINF:-1 group-title="未分类",甘肃公共(高清)
+http://39.134.32.102:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="未分类",隆化电影(高清)
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类",甘肃银川生活
+http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",上海生活(高清)
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="四川" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png",四川科教频道
+http://182.151.211.171:808/hls/56/index.m3u8
+#EXTINF:-1 group-title="未分类",玉龙雪山の冰川
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="未分类",河北影剧
+http://live6.plus.hebtv.com/hbysx/hd/live.m3u8?zhebd
+#EXTINF:-1 group-title="未分类",丘北新闻(高清)
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 group-title="未分类",麻坡频道(高清)
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="未分类",文山综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="未分类",文山公共(高清)
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="未分类",文山频道(高清)
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+#EXTINF:-1 group-title="未分类",砚山频道(高清)
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+#EXTINF:-1 group-title="未分类",俄罗斯Ugra TV
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="未分类",玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",延边卫视(高清)
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 group-title="未分类",湖南湘潭综合台
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="未分类",云南红河哈尼梯田坝达景点观景台
+https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
+#EXTINF:-1 group-title="未分类",Space Channel | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+#EXTINF:-1 group-title="未分类",天涯海角の日月石
+https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 group-title="北京" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",冬奥纪实
+http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
+#EXTINF:-1 group-title="未分类",净空老法师讲经
+http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w660449818.m3u8
+#EXTINF:-1 group-title="未分类",松桃综艺
+http://live.strmtzx.cn/stzy/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",俄罗斯RBC (Opt-3)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="未分类",俄罗斯RBC (Opt-2)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="未分类",眉山公共频道
+http://live2.scmstv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",点掌财经HD
+http://bdlive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="未分类",通州融媒(高清)
+http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1 group-title="未分类",武强影视
+http://hbwq.chinashadt.com:2035/live/stream:wqys.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类",济宁教育频道
+http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
+#EXTINF:-1 group-title="未分类",衡水影视娱乐
+http://hls.hsrtv.cn/hls/hstv2.m3u8
+#EXTINF:-1 group-title="未分类",亳州农村频道
+http://zbbf2.ahbztv.com/live/418.m3u8
+#EXTINF:-1 group-title="未分类",芜湖生活(高清)
+http://play.wuhunews.cn/whbtv/channel2_sd.m3u8
+#EXTINF:-1 group-title="未分类",亳州新闻频道
+http://zbbf2.ahbztv.com/live/416.m3u8
+#EXTINF:-1 group-title="未分类",安多电视(高清)
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
+#EXTINF:-1 group-title="未分类",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 group-title="未分类",赵县电视一套
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="未分类",浙江留学
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+#EXTINF:-1 group-title="未分类",浙江公共
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="未分类",浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="未分类",浙江钱江
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="未分类",浙江6套
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 group-title="未分类",芜湖生活频道
+http://live1.wuhubtv.com/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",广德新闻(高清)
+http://pili-live-hls.guangde.ahxmgk.com/guangde-live/guangde20200324143845.m3u8
+#EXTINF:-1 group-title="未分类",浙江6套FHD
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
+#EXTINF:-1 group-title="未分类",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 group-title="未分类",浙江好易购
+http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg",留学世界
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="未分类",浙江民生
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="未分类",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="未分类",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="未分类",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="未分类",浙江教科(高清)
+https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="未分类",泰山
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 group-title="未分类",数码时代
+https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="未分类",陕西·西安商务资讯
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 group-title="未分类",繁昌新闻(高清)
+https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8
+#EXTINF:-1 group-title="未分类",六安新闻综合
+http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
+#EXTINF:-1 group-title="未分类",六安公共频道
+http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="未分类",广东电影(高清)
+http://61.143.45.150:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="未分类",天涯海角の南天一柱
+https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 group-title="未分类",泰山碧霞祠
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="未分类",安庆石化电视
+http://183.167.250.225:8081/live/0.m3u8
+#EXTINF:-1 group-title="未分类",西安资讯
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",海盐新闻频道
+http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",郑东新区千玺广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",嵩山少林寺峻极峰
+https://gccncc.v.wscdns.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 group-title="未分类",民和综合(高清)
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+#EXTINF:-1 group-title="未分类",绍兴公共(高清)
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
+http://222.240.82.92:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="未分类",宁夏沙坡头长河落日
+https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 group-title="未分类",靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 group-title="未分类",浙江国际FHD
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
+#EXTINF:-1 group-title="未分类",西宁生活服务
+http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",张家界阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",浙江公共FHD
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
+#EXTINF:-1 group-title="未分类",鄞州二套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+#EXTINF:-1 group-title="未分类",鄞州一套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
+#EXTINF:-1 group-title="未分类",徐州-1
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 group-title="未分类",童年国漫
+http://bp-caster.bestv.com.cn/486/1/video.m3u8
+#EXTINF:-1 group-title="未分类",NewTV完美游戏
+http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png",广东公共(高清)
+http://61.143.45.150:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="未分类",电影-4
+http://bp-caster.bestv.com.cn/490/1/video.m3u8
+#EXTINF:-1 group-title="未分类",徐州公共频道
+http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 group-title="未分类",NewTV精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="未分类",云游日本
+http://bp-caster.bestv.com.cn/514/1/video.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视超清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="未分类",江西婺源02
+https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 group-title="未分类",四川阿坝州松潘县黄龙景区望乡台
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="未分类",乐山公共频道
+http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 group-title="未分类",邯郸新闻综合
+http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8
+#EXTINF:-1 group-title="未分类",石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1 group-title="未分类",乐山新闻综合
+http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="未分类",青海综合频道
+http://lmt.scqstv.com/live1/live1.m3u8
+#EXTINF:-1 group-title="未分类",南宁都市(高清)
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 group-title="未分类",彭州综合(高清)
+http://livepgc.chinamcache.com/pgc/1252b2e7742044c90efcb59e92f19de2.m3u8?auth_key=1646132996-0-0-3091540ccfbc73698c9437843235d594
+#EXTINF:-1 group-title="未分类",江苏徐州综合
+http://stream1.huaihai.tv/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="未分类",南宁新闻(高清)
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 group-title="四川" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",四川文化旅游
+http://182.151.211.171:808/hls/51/index.m3u8
+#EXTINF:-1 group-title="未分类",开封新闻综合
+http://live.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 group-title="未分类",芜湖公共(高清)
+http://play.wuhunews.cn/whbtv/channel3_sd.m3u8
+#EXTINF:-1 group-title="未分类",开封公共频道
+http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 group-title="未分类",解压喜剧
+http://bp-caster.bestv.com.cn/570/1/video.m3u8
+#EXTINF:-1 group-title="未分类",清风平顶山
+http://live.dxhmt.cn:9080/13619822555/ff0d20a1d7c840a3850bfdab119943ac.m3u8
+#EXTINF:-1 group-title="未分类",平顶山民生
+http://live.dxhmt.cn:9080/13619822555/b119d353d9fe4ee0ad34056550705665.m3u8
+#EXTINF:-1 group-title="未分类",平顶山城市
+http://live.dxhmt.cn:9080/13619822555/29df489f23274977826bb0c55cb0411d.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="未分类",泰山拱北石
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",河北公共
+http://live7.plus.hebtv.com/hbggx/hd/live.m3u8?zhebd
+#EXTINF:-1 group-title="未分类",盐城法制生活
+http://stream.0515yc.cn/yctv2/playlist.m3u8
+#EXTINF:-1 group-title="未分类",隆化综合(高清)
+http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类",上海实时路况:南北高架共和新路
+https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng4.m3u8
+#EXTINF:-1 group-title="未分类",江苏电影(高清)
+http://183.207.248.13:80/PLTV/4/224/3221225937/index.m3u8
+#EXTINF:-1 group-title="未分类",永康新闻综合
+http://hlsv2.quklive.com/live/1625061424267104/index.m3u8
+#EXTINF:-1 group-title="未分类",永康华溪频道
+http://hlsv2.quklive.com/live/1625062755227231/index.m3u8
+#EXTINF:-1 group-title="未分类",德育动画
+http://m3u8.ciguang.tv/360p/DH/DH-004/DH-004-0001_3/DH-004-0001_3.m3u8
+#EXTINF:-1 group-title="未分类",郑州教育频道
+https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
+#EXTINF:-1 group-title="未分类",雨城频道(高清)
+https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="未分类",江苏经典流行音乐广播
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1 group-title="未分类",万荣综合(高清)
+http://pili-live-hls.217.i2863.com/i2863-217/live_217_867556.m3u8
+#EXTINF:-1 group-title="未分类",电影-1
+http://bp-caster.bestv.com.cn/494/1/video.m3u8
+#EXTINF:-1 group-title="未分类",广西·南宁影视
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 group-title="未分类",浙江 I 绍兴综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 group-title="未分类",狗血集合
+http://bp-caster.bestv.com.cn/569/1/video.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
+https://bp-caster.bestv.com.cn/250/1/video.m3u8
+#EXTINF:-1 group-title="未分类",屯留综合(高清)
+http://qqlivepull.seedata.top/live/tunliu_video1.m3u8
+#EXTINF:-1 group-title="北京" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",北京纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="未分类",新泰影视频道
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="未分类",乌兰察布生活频道
+http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",青海都市频道
+http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=e509df8a1648029234
+#EXTINF:-1 group-title="未分类",上海实时路况:南北高架延安路高架交汇处
+https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng3.m3u8
+#EXTINF:-1 group-title="未分类",天台和合频道
+http://hlsv2.quklive.com/live/1617072208961931/index.m3u8
+#EXTINF:-1 group-title="未分类",叶倩文-曾经心痛
+http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
+#EXTINF:-1 group-title="未分类",毛宁/杨钰莹-心雨
+http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
+#EXTINF:-1 group-title="未分类",陈慧娴-跳舞街
+http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
+#EXTINF:-1 group-title="未分类",黔西南公共
+http://live2.qxndt.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",系念法会(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="未分类",网络念佛堂(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="未分类",净空老法师讲经直播台(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",杨钰莹-等你一万年
+http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
+#EXTINF:-1 group-title="未分类",黔西南综合
+http://live2.qxndt.com/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-你看你看月亮的脸
+http://vodcdn.video.taobao.com/oss/ali-video/6e098f7b47614885845efb7a45998eb1/1465875165/video.m3u8.m3u8
+#EXTINF:-1 group-title="未分类",毛宁-蓝蓝的夜蓝蓝的梦
+http://vodcdn.video.taobao.com/oss/ali-video/6d5a8c2e7667e3d6138246a45571d1f7/video.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-谁的眼泪在飞
+http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
+#EXTINF:-1 group-title="未分类",陈慧娴-归来吧
+http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
+#EXTINF:-1 group-title="未分类",周慧敏-痴心换情深
+http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
+#EXTINF:-1 group-title="未分类",陈慧娴-红茶馆
+http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
+#EXTINF:-1 group-title="未分类",河北农民
+https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="未分类",凉山新闻综合
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+#EXTINF:-1 group-title="未分类",辛晓琪-俩俩相忘
+http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
+#EXTINF:-1 group-title="未分类",王菲-如风
+http://vodcdn.video.taobao.com/oss/ali-video/f176658a3f974aecd5ce3df456092835/video.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-红雨
+http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
+#EXTINF:-1 group-title="未分类",毛宁-晚秋
+http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
+#EXTINF:-1 group-title="未分类",陈慧娴-孤单背影
+http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
+#EXTINF:-1 group-title="未分类",刘小慧-初恋情人
+http://vodcdn.video.taobao.com/oss/ali-video/fce8631e2287d0c7ac98595060ab6e4c/video.m3u8
+#EXTINF:-1 group-title="未分类",叶倩文-伤逝
+http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
+#EXTINF:-1 group-title="未分类",江苏徐州新闻综合
+http://stream1.huaihai.tv/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",陈慧娴-人生何处不相逢
+http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
+#EXTINF:-1 group-title="未分类",张智霖-现代爱情故事
+http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
+#EXTINF:-1 group-title="未分类",王菲-爱与痛的边缘
+http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
+#EXTINF:-1 group-title="未分类",杨钰莹-红彤彤的春天
+http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
+#EXTINF:-1 group-title="未分类",杨钰莹-轻轻告诉你
+http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
+#EXTINF:-1 group-title="未分类",李翊君-诺言
+http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
+#EXTINF:-1 group-title="未分类",陈慧娴-千千阙歌
+http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+#EXTINF:-1 group-title="未分类",张智霖-片片枫叶情
+http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
+#EXTINF:-1 group-title="未分类",王菲-容易受伤的女人(粤语)
+http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
+#EXTINF:-1 group-title="未分类",王菲-执迷不悔
+http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
+#EXTINF:-1 group-title="未分类",张学友-一颗不变心
+http://vodcdn.video.taobao.com/oss/ali-video/1dcf180669ab98697e49c4c9b5f76cd7/video.m3u8
+#EXTINF:-1 group-title="未分类",杨钰莹-我不想说
+http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
+#EXTINF:-1 group-title="未分类",枣庄教育频道
+http://stream.zztvzd.com/2/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",黎瑞恩-为情为爱
+http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
+#EXTINF:-1 group-title="未分类",叶倩文-潇洒走一回
+http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
+#EXTINF:-1 group-title="未分类",枣庄新闻综合
+http://stream.zztvzd.com/1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",辛晓琪-领悟
+http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
+#EXTINF:-1 group-title="未分类",王菲-容易受伤的女人(国语)
+http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+#EXTINF:-1 group-title="未分类",门源综合(高清)
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+#EXTINF:-1 group-title="未分类",苏州综合(高清)
+http://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
+#EXTINF:-1 group-title="未分类",德格综合(高清)
+http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="未分类",枣庄公共频道
+http://stream.zztvzd.com/3/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-风里的梦
+http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-无声的雨
+http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
+#EXTINF:-1 group-title="未分类",吉林电影(高清)
+http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
+#EXTINF:-1 group-title="未分类",文成综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="未分类",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="未分类",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="未分类",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="未分类",遂昌综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 group-title="未分类",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="未分类",馀杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 group-title="未分类",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1 group-title="未分类",普陀新闻综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="未分类",上虞文化影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="未分类",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="未分类",庆元综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 group-title="未分类",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="未分类",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 group-title="未分类",缙云综合频道
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 group-title="未分类",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 group-title="未分类",新昌新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 group-title="未分类",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="未分类",馀杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 group-title="未分类",松阳综合频道
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 group-title="未分类",开化新闻综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1 group-title="未分类",浙江馀姚幸福生活
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1 group-title="未分类",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1 group-title="未分类",济源电视一套
+http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+#EXTINF:-1 group-title="未分类",永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 group-title="未分类",资兴综合(高清)
+http://liveplay.rednet.cn/live/zixin_tv_00676b.m3u8
+#EXTINF:-1 group-title="未分类",雪乡大石碑
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",芜湖教育(高清)
+http://play.wuhunews.cn/whbtv/channel4_sd.m3u8
+#EXTINF:-1 group-title="未分类",江苏·徐州2
+http://183.207.249.11/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 group-title="未分类",HTV Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1 group-title="未分类",White Plains Community M
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 group-title="未分类",哈密一套
+http://stream.hmgbtv.com/hm1/hd/live.m3u8
+#EXTINF:-1 group-title="未分类",电影-2
+http://bp-caster.bestv.com.cn/532/1/video.m3u8
+#EXTINF:-1 group-title="未分类",醴陵综合(高清)
+http://liveplay.rednet.cn/live/21084_145ba4ee9f0511e992905cb9018cf0d4.m3u8
+#EXTINF:-1 group-title="未分类",鹤壁综合频道
+http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png",kltv
+https://dai2-playlistserver.aws.syncbak.com/playlist/18439558/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQzOTU1OCIsIm1kNSI6IjdjNmM5Yjk5YmMxNjUyMmVhM2E5Y2Q4ZmRiMmUzOThjIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.70BwybOv28vKpy1DlhpYkN8Y18r4ugp-1KXpuVV1mWs
+#EXTINF:-1 group-title="未分类",嵊泗新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 group-title="未分类",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1 group-title="未分类",新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="未分类",苍南新闻综合
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1 group-title="未分类",HTV 2 Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 group-title="未分类",相声专场
+http://bp-caster.bestv.com.cn/512/1/video.m3u8
+#EXTINF:-1 group-title="未分类",张家口二套
+http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
+#EXTINF:-1 group-title="未分类",青海经视频道
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933
+#EXTINF:-1 group-title="未分类",广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 group-title="未分类",南浔综合频道
+http://pili-live-hls.nanxunfb.com/nanxun/live3002833-0.m3u8
+#EXTINF:-1 group-title="未分类",磐安新闻综合
+http://hlsv2.quklive.com/live/1626400915947070/index.m3u8
+#EXTINF:-1 group-title="未分类",万源新闻(高清)
+http://live.wanyuannews.com/wytv/playlist.m3u8
+#EXTINF:-1 group-title="未分类",安徽导视(高清)
+http://agsj.appcoo.com:8000/agsj/test/index.m3u8
+#EXTINF:-1 group-title="未分类",广西玉林大容山莲花山顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",广昌综合(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
+#EXTINF:-1 group-title="未分类",分宜综合(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+#EXTINF:-1 group-title="未分类",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 group-title="未分类",都昌新闻(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8
+#EXTINF:-1 group-title="未分类",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 group-title="未分类",广信综合(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao.m3u8
+#EXTINF:-1 group-title="未分类",广东 ‖ 清新综合台
+http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 group-title="未分类",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 group-title="未分类",句容影视频道
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1 group-title="未分类",镇海先锋影视
+http://pluslive.zhxww.net/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="未分类",句容新闻综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+#EXTINF:-1 group-title="未分类",镇海综合频道
+http://pluslive.zhxww.net/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",句容生活频道
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+#EXTINF:-1 group-title="未分类",句容党建频道
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
+#EXTINF:-1 group-title="未分类",广东文化(高清)
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+#EXTINF:-1 group-title="未分类",陕西西安影视频道
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",洞头综合频道
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 group-title="未分类",龙泉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 group-title="未分类",哈密二套
+http://stream.hmgbtv.com/hm2/hd/live.m3u8
+#EXTINF:-1 group-title="未分类",摩尔多瓦Publika TV
+http://livebeta.publika.md/LIVE/P/2000.m3u8
+#EXTINF:-1 group-title="未分类",荆州新闻(高清)
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5
+#EXTINF:-1 group-title="未分类",馀姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="未分类",福建新罗电视二套
+http://stream.lyxltv.com/xinluotv/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",馀姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="未分类",临平新闻频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 group-title="未分类",江苏徐州公共
+http://stream1.huaihai.tv/ggpd/playlist.m3u8
+#EXTINF:-1 group-title="未分类",利川新闻(高清)
+http://lichuan-live21.cjyun.org/10093/s10093-lczh.m3u8?auth_key=1672502399-0-0-f207596099dd52263c0839cbf33ce792
+#EXTINF:-1 group-title="未分类",文言书院
+http://m3u8.ciguang.tv/360p/56/56-181/56-181-0003/56-181-0003.m3u8
+#EXTINF:-1 group-title="未分类",捷克Retro (Opt-1)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="未分类",石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="未分类",河北电影(高清)
+http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+#EXTINF:-1 group-title="未分类",张家口台(高清)
+http://nlive.zjkgdcs.com:8091/live/zjksjt.m3u8
+#EXTINF:-1 group-title="未分类",河北公共(高清)
+http://live7.plus.hebtv.com/hbggx/playlist.m3u8
+#EXTINF:-1 group-title="未分类",衡水一套(高清)
+http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="未分类",江西婺源01
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 group-title="未分类",北仑电视台
+http://play-sh.quklive.com/live/1626327731714170.m3u8
+#EXTINF:-1 group-title="未分类",德令哈综合
+http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
+#EXTINF:-1 group-title="未分类",平山湖大峡谷峡谷石林
+https://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 group-title="未分类",文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1 group-title="未分类",绍兴电影(高清)
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="未分类",龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1 group-title="未分类",凉山彝语频道
+http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+#EXTINF:-1 group-title="未分类",盐城新闻综合
+http://stream.0515yc.cn/yctv1/playlist.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂高二
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂高一
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂二年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂八年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂高三
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂七年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",河北科教(高清)
+http://live6.plus.hebtv.com/sekjx/playlist.m3u8
+#EXTINF:-1 group-title="未分类",峨眉综合(高清)
+http://embl.emsyd.jrem.cn:80/tv/ems01.m3u8?auth_key=1624854902-0-0-4c5c643800f475f11a1978be6539ea6c
+#EXTINF:-1 group-title="未分类",空中课堂四年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂三年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",桐庐综合频道
+http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=2ee28a051ebfb1b0771869a7d652d4a9&txTime=639a8391
+#EXTINF:-1 group-title="未分类",重庆导视(高清)
+http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类",天等综合(高清)
+https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂六年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",溆浦蓝光(高清)
+http://liveplay.rednet.cn/live/xupu_tv_fego93.m3u8
+#EXTINF:-1 group-title="未分类",江苏·徐州3
+http://stream1.huaihai.tv/wyys/playlist.m3u8
+#EXTINF:-1 group-title="未分类",张家口一套
+http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂一年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂九年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",空中课堂五年级
+https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分类",哈密三套
+http://stream.hmgbtv.com/hm3/hd/live.m3u8
+#EXTINF:-1 group-title="未分类",夷陵综合(高清)
+http://yiling-live21.cjyun.org/10174/s10174-TC1T.m3u8?auth_key=1672502399-0-0-17b5ad3344b60bcdeb4b6995e1182380
+#EXTINF:-1 group-title="未分类",安乡新闻(高清)
+http://liveplay.rednet.cn/live/anxiang_tv_jhge13.m3u8
+#EXTINF:-1 group-title="未分类",悬疑烧脑
+http://bp-caster.bestv.com.cn/567/1/video.m3u8
+#EXTINF:-1 group-title="未分类",黄山光明顶
+https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 group-title="未分类",河北经济生活
+http://live2.plus.hebtv.com/jjshx/hd/live.m3u8?zhebd
+#EXTINF:-1 group-title="未分类",福州生活
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 group-title="未分类",佛陀教育
+http://m3u8.ciguang.tv/360p/19/19-012/19-012-0105/19-012-0105.m3u8
+#EXTINF:-1 group-title="未分类",大研花巷景观台
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="未分类",南陵新闻(高清)
+http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8
+#EXTINF:-1 group-title="未分类",鄂托克前旗电视台
+http://livehqy.chinamcache.com/live/hqyzb01.m3u8
+#EXTINF:-1 group-title="未分类",福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 group-title="未分类",罗甸综合
+http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
+#EXTINF:-1 group-title="未分类",黄花城水长城04
+https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 group-title="未分类",湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",黄山始信新道
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="未分类",泰山南天门
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="未分类",栖霞区新闻频道
+http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
+#EXTINF:-1 group-title="未分类",海西州综合频道
+http://stream.haixitv.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",云南大理崇圣寺三塔远景
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 group-title="未分类",陕西西安新闻综合
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",孟庭苇-真的还是假的
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
+#EXTINF:-1 group-title="未分类",天津海河
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
+#EXTINF:-1 group-title="未分类",传统文化
+http://m3u8.ciguang.tv/360p/CT/CT-005/CT-005-0001/CT-005-0001.m3u8
+#EXTINF:-1 group-title="未分类",无锡生活
+http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8
+#EXTINF:-1 group-title="未分类",溧水电影(高清)
+http://live.lsrmw.cn/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",五台综合(高清)
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+#EXTINF:-1 group-title="未分类",襄垣电视(高清)
+http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="未分类",青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",趵突泉
+https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",玉龙雪山の一滴水过丽江
+https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 group-title="未分类",河北少儿科教
+http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
+#EXTINF:-1 group-title="未分类",福州综合
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 group-title="未分类",松潘卫台(高清)
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 group-title="未分类",江苏 I 连云港公共
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",龙岩综合(高清)
+http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",浙江舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",上海实时路况:卢浦大桥
+https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng1.m3u8
+#EXTINF:-1 group-title="未分类",黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",河北经济(高清)
+http://live2.plus.hebtv.com/jjshx/playlist.m3u8
+#EXTINF:-1 group-title="未分类",安徽黟县宏村芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 group-title="未分类",群书治要
+http://m3u8.ciguang.tv/360p/55/55-057/55-057-0022/55-057-0022.m3u8
+#EXTINF:-1 group-title="未分类",上海教育(高清)
+https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+#EXTINF:-1 group-title="未分类",黟县西递半山亭俯瞰
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",常山新闻综合
+https://hlsv2.quklive.com/live/1621306190044902/index.m3u8
+#EXTINF:-1 group-title="未分类",大经专修
+http://m3u8.ciguang.tv/360p/02/02-041/02-041-0216/02-041-0216.m3u8
+#EXTINF:-1 group-title="未分类",张家界武陵源景区水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="未分类",陕西洋县国宝朱鹮02
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="未分类",泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",靖江新闻HD
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="未分类",侨乡
+http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",夹江新闻(高清)
+http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
+#EXTINF:-1 group-title="未分类",中央电视台中塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",中央电视台中塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",青岛崂山八水河
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="未分类",华严讲席
+http://m3u8.ciguang.tv/360p/12/12-047/12-047-0033/12-047-0033.m3u8
+#EXTINF:-1 group-title="未分类",郴州新闻(高清)
+http://139.186.37.10/hoge/hncztv-25.m3u8
+#EXTINF:-1 group-title="未分类",白沙远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="未分类",景宁新闻综合
+http://hlsv2.quklive.com/live/1622691799302368/index.m3u8
+#EXTINF:-1 group-title="未分类",岑溪综合(高清)
+https://cdn.gdlive.gdmain.com/live/02kzy3y0.m3u8
+#EXTINF:-1 group-title="未分类",云南红河综合台
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="未分类",云南红河哈尼梯田老虎嘴
+https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏金陵之声
+http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+#EXTINF:-1 group-title="四川" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png",四川影视文艺
+http://182.151.211.171:808/hls/53/index.m3u8
+#EXTINF:-1 group-title="未分类",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="未分类",湘西凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="未分类",兴隆电影(高清)
+https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="未分类",八里沟风景区桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="未分类",郴州都市(高清)
+http://139.186.37.10/hoge/hncztv-21.m3u8
+#EXTINF:-1 group-title="未分类",云溪新闻(高清)
+http://liveplay.rednet.cn/live/yunxi_tv.m3u8
+#EXTINF:-1 group-title="未分类",无锡新闻综合
+http://m.m3u8.wifiwx.com:80/live/wifiwx-239.m3u8
+#EXTINF:-1 group-title="未分类",无锡都市资讯
+http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8
+#EXTINF:-1 group-title="未分类",远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",桐乡新闻综合
+http://live.txcmapp.com/tszh1/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",水长城镜头二
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="未分类",无锡经济
+http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
+#EXTINF:-1 group-title="未分类",仙都风景区
+https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 group-title="未分类",丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",福建漳州六鳌翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
