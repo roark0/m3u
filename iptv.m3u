@@ -777,7 +777,7 @@ https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733
 https://epg.pm/stream/9b3f6c4514b2708e1a63cf78954290b7a50316a1e2840f6963ec1deb96f7110b.m3u8
 #EXTINF:-1 tvg-id="3558" tvg-country="美国" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/7c073fc72f7c2e7403f5e5285ea36a4f.png" group-title="纪实", [BD]Nat Geo Wild
 https://epg.pm/stream/aefcc3e2ba22e47994f797688ee5e35d78e2479a4f27de5c1e469db54b35bfc2.m3u8
-#EXTINF:-1 tvg-country="美国" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="新闻", [HD] Newsmax TV
+#EXTINF:-1 tvg-country="美国" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="新闻", [HD Newsmax TV
 https://epg.pm/stream/57e4982e906412f027b8e957ad754ecd34a75399a1e271d0d2a5182370356796.m3u8
 #EXTINF:-1 tvg-id="7455" tvg-country="台湾" tvg-language="国语" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="动画", [HD]Animax HD@@1
 https://epg.pm/stream/cdf7a3d4550f3a6759da59558ef5371f309fe7c47c46eceada147b34d81ad437.m3u8
@@ -20831,7 +20831,7 @@ https://epg.pm/stream/181ca0e65e2a5f1977b0e570ae81257ddaedf3a87a50ef9ab2f21b3ec3
 https://epg.pm/stream/f7fbf635ab85d7fcd232de25c4d8fdec83230fd30a2f149b3d516b405a73a362.m3u8
 #EXTINF:-1 tvg-country="美国" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="电影", [BD]HBO HD
 https://epg.pm/stream/5c76ddb6586da8e6b0630d0dbe066303b32f9b8347ea86b87d3b4194b05ee940.m3u8
-#EXTINF:-1 tvg-country="希腊" tvg-language="希腊语" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021144851990202_52.jpg" group-title="综合", [VGA]U Channel (576p) [Not 24/7] [Geo-blocked]
+#EXTINF:-1 tvg-country="希腊" tvg-language="希腊语" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021144851990202_52.jpg" group-title="综合", [VGA]U Channel (576p) [Not 24/7 [Geo-blocked]
 https://epg.pm/stream/27f83a35226dab187e454aa56cf9e1c6a6ed79c129476c817cc4fc393f43b791.m3u8
 #EXTINF:-1 tvg-country="巴基斯坦" tvg-language="乌尔都语" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173822108759_11.png" group-title="新闻", [BD]Channel 24 (720p)
 https://epg.pm/stream/d775b27eaefd9f016ff8ddd9bc0059e478f718c43af881cf720ded2417f76df0.m3u8

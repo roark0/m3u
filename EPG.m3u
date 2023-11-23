@@ -2237,7 +2237,7 @@ https://epg.pm/stream/c113cb85b68219a8feebb854ab3a38fd5d960e94803278a1e4ecb9be70
 https://epg.pm/stream/aa0cc41561934bf836db33ffa5ce6209b45b4a28cb50754456f61227c7909355.m3u8
 #EXTINF:-1 tvg-id="2592" tvg-country="China National" tvg-language="Chinese" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/737884b31db97b458fc7bd7470b8bc93.jpg" group-title="Entertainment", [BD]CCTV3@@2
 https://epg.pm/stream/4f23afac44470dc55554a17560be4c85e696df276ac114da1b6b351d2c337918.m3u8
-#EXTINF:-1 tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News", [HD] Newsmax TV
+#EXTINF:-1 tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News", [HD Newsmax TV
 https://epg.pm/stream/57e4982e906412f027b8e957ad754ecd34a75399a1e271d0d2a5182370356796.m3u8
 #EXTINF:-1 tvg-country="Macau" tvg-language="Cantonese" tvg-logo="https://epg.pm/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="Generic", [HD]澳视澳门@@1
 https://epg.pm/stream/505249eb12a8b3061a5a91921ed68c3e69844e6098218a75a6b4366cf5db7137.m3u8
@@ -7657,7 +7657,7 @@ https://epg.pm/stream/db4fdece3229a93204ee7270d649da3ca6271dc5b5ab59cdd38c95e3b1
 https://epg.pm/stream/7406825ab354247105009d2bf976ed2e4f7e33c4ddf89f8c2071bc2faeb2b451.m3u8
 #EXTINF:-1 tvg-id="2637" tvg-country="China Province" tvg-language="Chinese" tvg-logo="https://epg.pm/media/images/channel/2017/01/08/large/20170108220858481970_23.jpg" group-title="Generic", [BD]湖北卫视@@14
 https://epg.pm/stream/985495705b94c284aaecaf1388670cbda3936e288611656ea89ed247a5c62b1c.m3u8
-#EXTINF:-1 tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pm/media/uploads/tmp_logo/2016/01/05/20160105152809319655_78.jpg" group-title="Generic", [VGA]Elshinta TV (480p) [Not 24/7] [Geo-blocked]
+#EXTINF:-1 tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pm/media/uploads/tmp_logo/2016/01/05/20160105152809319655_78.jpg" group-title="Generic", [VGA]Elshinta TV (480p) [Not 24/7 [Geo-blocked]
 https://epg.pm/stream/0fd065575be21e741cd663150a57912d77ea856646173bd70d7d494c16f4a9af.m3u8
 #EXTINF:-1 tvg-id="2675" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://epg.pm/media/images/channel/2019/01/22/large/20190122231052282218_12.jpg" group-title="Movie", [VGA]CHC动作电影
 https://epg.pm/stream/e5a6c60b0c20a97b7c263d9a249aab7d7a0dd86eb1c341eaa5f57db43be2a843.m3u8
@@ -13923,7 +13923,7 @@ https://epg.pm/stream/cb72463689aebbf6dfbc1e8848a1db1d9f3e1862e184697d2bbc0124db
 https://epg.pm/stream/7272ed2b037b83606d2e2d69a8e9c1c562cf7793b7904f2e6ed66a94bb907080.m3u8
 #EXTINF:-1 tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pm/media/images/channel/2022/05/06/large/20220506174632453514_44.png" group-title="Generic", [SD]Canale 2 Altamura (576p) [Not 24/7]
 https://epg.pm/stream/4361b65075bc1afbfd8444df62e98dff45087da25104e15b08ac35f6f7fc1931.m3u8
-#EXTINF:-1 tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pm/media/images/channel/2015/10/21/large/20151021144851990202_52.jpg" group-title="Generic", [VGA]U Channel (576p) [Not 24/7] [Geo-blocked]
+#EXTINF:-1 tvg-country="Greece" tvg-language="Ελληνικά" tvg-logo="https://epg.pm/media/images/channel/2015/10/21/large/20151021144851990202_52.jpg" group-title="Generic", [VGA]U Channel (576p) [Not 24/7 [Geo-blocked]
 https://epg.pm/stream/9845b5722e0aed3373f04b3349a27635ca95d4b8e9833e48c1a49a0bd7980117.m3u8
 #EXTINF:-1 tvg-country="Saudi Arabia" tvg-language="العربية" tvg-logo="https://epg.pm/media/images/channel/2022/05/06/large/20220506175005748251_54.png" group-title="Generic", [VGA]Syria Drama (360p) [Not 24/7]
 https://epg.pm/stream/8d2fa3a5b68ade3f95acbcba08fd8dfa95f55a23487b19379e3c81e99abcfd20.m3u8
