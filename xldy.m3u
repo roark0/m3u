@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="公众号：iOS小萝卜" tvg-logo="https://cdn.lbbb.tk/lb.png", 🎉 公众号：iOS小萝卜
-https://git.lbbb.tk/m3u/bg.m3u8
 #EXTINF:-1,group-title="系列电影",沈腾
 http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 #EXTINF:-1,group-title="系列电影",动作大片

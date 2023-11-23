@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="公众号：iOS小萝卜" tvg-logo="https://cdn.lbbb.tk/lb.png", 🎉 公众号：iOS小萝卜
-https://git.lbbb.tk/m3u/bg.m3u8
 #EXTINF:-1 group-title="未分类",日本购物4
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 #EXTINF:-1 group-title="未分类",日本A&G声优广播

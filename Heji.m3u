@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="公众号：iOS小萝卜" tvg-logo="https://cdn.lbbb.tk/lb.png", 🎉 公众号：iOS小萝卜
-https://git.lbbb.tk/m3u/bg.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="公众号：iOS小萝卜",公众号:iOS小萝卜
 https://u89ey.cdnedge.live/file/avple-images/hls/61113a51114b4a1f231dddbe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="公众号：iOS小萝卜",公众号:iOS小萝卜

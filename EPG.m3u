@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="公众号：iOS小萝卜", 🎉 公众号：iOS小萝卜
-https://git.lbbb.tk/m3u/bg.m3u8
 #EXTINF:-1 tvg-id="3119" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="News", [BD]CNA
 https://epg.pm/stream/834952a07e17d3c1b0507af424d6c4793fb3288356c82e82064376f9699a6038.m3u8
 #EXTINF:-1 tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531154641916439_80.jpg" group-title="Generic", [HD]黑龙江文体

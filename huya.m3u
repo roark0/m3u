@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="公众号：iOS小萝卜", 🎉 公众号：iOS小萝卜
-https://git.lbbb.tk/m3u/bg.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", Zz1tai姿态
-https://epg.lbbb.tk/huya/333003
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 大熊小清新
-https://epg.lbbb.tk/huya/585800
 #EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 托马斯CzH
 https://epg.lbbb.tk/huya/20641
 #EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 4AM永远妖妖丷

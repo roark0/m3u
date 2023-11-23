@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="公众号：iOS小萝卜", 🎉 公众号：iOS小萝卜
-https://git.lbbb.tk/m3u/bg.m3u8
-#EXTINF:-1 tvg-id="5628" tvg-country="美國" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="新聞", [SD]ABC
-https://epg.pm/stream/c2ed2f6c9895983949cf8499916a6ce386478e9bfaa0dd0907bb84262343c9aa.m3u8
-#EXTINF:-1 tvg-id="3119" tvg-country="新加坡" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="新聞", [BD]CNA
-https://epg.pm/stream/c0849f17256eeb0ced9e89289cbc03181ed9c21f1a29632b4259ffe073f09119.m3u8
-#EXTINF:-1 tvg-id="7444" tvg-country="台灣" tvg-language="國語" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/23/large/20190123010138991369_23.jpg" group-title="電影", [BD]龍華偶像
-https://epg.pm/stream/42cd2e4edd2468418652e234538405cd73fe2c8d4cb992d98ff35b2212b5f460.m3u8
-#EXTINF:-1 tvg-id="3119" tvg-country="新加坡" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="新聞", [BD]CNA(1080p)
+untry="新加坡" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="新聞", [BD]CNA(1080p)
 https://epg.pm/stream/a067239b7450d6d14f214a0aff46c5ee4f59f5a74af03f202d7ac6c9fe5fee14.m3u8
 #EXTINF:-1 tvg-country="新加坡" tvg-language="英文" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/28/large/20161228004148018515_47.png" group-title="電影", [VGA]KTO (404p) [Not 24/7]
 https://epg.pm/stream/9556a3a874df041096990bf4a1e0dab01e5601f5b4e318d490e234f188b77c80.m3u8
