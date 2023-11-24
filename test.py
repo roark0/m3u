@@ -20,7 +20,7 @@ def parse_and_filter_m3u(url):
     # parser.remove_by_extension('mp4')
 
     # Filter streams by status
-    parser.filter_by('status', 'GOOD')
+    # parser.filter_by('status', 'GOOD')
 
     parser.sort_by("url", key_splitter="-", asc=True, nested_key=False)
 
@@ -31,13 +31,13 @@ def parse_and_filter_m3u(url):
     print(len(streams))
 
     print(url)
-
     # Convert streams to JSON and save to a file
-    parser.to_file(url, 'm3u')
+    if (len(streams)):
+     parser.to_file(url, 'm3u')
 
 
 m3u_pattern = re.compile(r'^.*\.m3u$')  # 匹配以.m3u结尾的文件名
-current_dir = os.getcwd()  # 获取当前目录
+current_dir =  os.path.join(os.getcwd(), 'playlist')
 
 for file_name in os.listdir(current_dir):
     if re.match(m3u_pattern, file_name):

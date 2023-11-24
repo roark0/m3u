@@ -92,3 +92,5 @@ https://epg.lbbb.tk/m3u/huangjiahuaren.m3u
 https://epg.lbbb.tk/m3u/neishezhongchu.m3u
 https://epg.lbbb.tk/m3u/wuguluoli.m3u
 https://epg.lbbb.tk/m3u/4kchaoqing.m3u
+https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u

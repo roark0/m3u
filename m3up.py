@@ -11,7 +11,7 @@ def parse_and_filter_m3u(url):
     useragent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 
     # Instantiate the parser
-    parser = M3uParser(timeout=5, useragent=useragent)
+    parser = M3uParser(timeout=10, useragent=useragent)
 
     # Parse the m3u file
     parser.parse_m3u(url)
