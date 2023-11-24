@@ -22,7 +22,7 @@ def parse_and_filter_m3u(url):
     # Filter streams by status
     # parser.filter_by('status', 'GOOD')
 
-    parser.sort_by("url", key_splitter="-", asc=True, nested_key=False)
+    parser.sort_by("name", key_splitter="-", asc=True, nested_key=False)
 
     parser.remove_duplicates()
 
