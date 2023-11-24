@@ -3,6 +3,7 @@
 
 import os
 import re
+import shutil
 
 from m3u_parser import M3uParser
 
@@ -19,7 +20,7 @@ def parse_and_filter_m3u(url):
     # parser.remove_by_extension('mp4')
 
     # Filter streams by status
-    # parser.filter_by('status', 'GOOD')
+    parser.filter_by('status', 'GOOD')
 
     parser.sort_by("url", key_splitter="-", asc=True, nested_key=False)
 
@@ -28,6 +29,8 @@ def parse_and_filter_m3u(url):
     # Get the list of streams
     streams = parser.get_list()
     print(len(streams))
+
+    print(url)
 
     # Convert streams to JSON and save to a file
     parser.to_file(url, 'm3u')
@@ -40,5 +43,6 @@ for file_name in os.listdir(current_dir):
     if re.match(m3u_pattern, file_name):
         print(file_name)
         parse_and_filter_m3u(file_name)
+        shutil.move(file_name, "./new/")
 
 

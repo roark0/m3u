@@ -20,7 +20,7 @@ def parse_and_filter_m3u(url):
     # parser.remove_by_extension('mp4')
 
     # Filter streams by status
-    # parser.filter_by('status', 'GOOD')
+    parser.filter_by('status', 'GOOD')
 
     parser.sort_by("url", key_splitter="-", asc=True, nested_key=False)
 
