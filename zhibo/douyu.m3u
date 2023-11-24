@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 小乃丸
+#EXTINF:-1  group-title="自定义", 小乃丸
 https://epg.lbbb.tk/douyu/8747682
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 杰克螳螂
+#EXTINF:-1  group-title="自定义", 杰克螳螂
 https://epg.lbbb.tk/douyu/4814609
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 斗牌TV
+#EXTINF:-1  group-title="自定义", 斗牌TV
 https://epg.lbbb.tk/douyu/645
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 白白的胖胖呀
+#EXTINF:-1  group-title="自定义", 白白的胖胖呀
 https://epg.lbbb.tk/douyu/501761
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 主播索老师
+#EXTINF:-1  group-title="自定义", 主播索老师
 https://epg.lbbb.tk/douyu/509251
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 董二千阿
+#EXTINF:-1  group-title="自定义", 董二千阿
 https://epg.lbbb.tk/douyu/2142758
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 日月轮回888 
+#EXTINF:-1  group-title="自定义", 日月轮回888 
 https://epg.lbbb.tk/douyu/2293920
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", Happy | 猫腻
+#EXTINF:-1  group-title="自定义", Happy | 猫腻
 https://epg.lbbb.tk/douyu/65848
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 是个枷锁
+#EXTINF:-1  group-title="自定义", 是个枷锁
 https://epg.lbbb.tk/douyu/169
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", scboy
+#EXTINF:-1  group-title="自定义", scboy
 https://epg.lbbb.tk/douyu/3484
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 梨落秋溪
+#EXTINF:-1  group-title="自定义", 梨落秋溪
 https://epg.lbbb.tk/douyu/594019
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", yyfyyf
+#EXTINF:-1  group-title="自定义", yyfyyf
 https://epg.lbbb.tk/douyu/9999
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 谢彬DD
+#EXTINF:-1  group-title="自定义", 谢彬DD
 https://epg.lbbb.tk/douyu/110
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 小红豆阿
+#EXTINF:-1  group-title="自定义", 小红豆阿
 https://epg.lbbb.tk/douyu/6591422
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 棋待诏3321
+#EXTINF:-1  group-title="自定义", 棋待诏3321
 https://epg.lbbb.tk/douyu/6387028
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", csy影
+#EXTINF:-1  group-title="自定义", csy影
 https://epg.lbbb.tk/douyu/5532877
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", Xleft小叮当
+#EXTINF:-1  group-title="自定义", Xleft小叮当
 https://epg.lbbb.tk/douyu/3168536
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2", 完美世界电竞频道
 https://epg.lbbb.tk/douyu/6829849

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.lbbb.tk/lb.png" group-title="自定义", 斗牌TV
+#EXTINF:-1  group-title="自定义", 斗牌TV
 https://epg.lbbb.tk/douyu/645
 #EXTINF:-1 group-title="groupName=4K频道",CCTV16HDR
 http://39.134.66.2/PLTV/88888888/224/3221225655/index.m3u8
