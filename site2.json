@@ -1102,6 +1102,11 @@
             "api": "https://yue52.xyz/api.php/v1.vod"
         },
         {
+            "type": 3,
+            "name": "月儿影视(M21)",
+            "api": "https://yue52.xyz/api.php/v1.vod"
+        },
+        {
             "type": 1,
             "name": "雪人官采",
             "api": "https://zl.qd234.cn/api.php/provide/vod"
