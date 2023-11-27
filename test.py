@@ -37,7 +37,7 @@ def parse_and_filter_m3u(url):
 
 
 m3u_pattern = re.compile(r'^.*\.m3u$')  # 匹配以.m3u结尾的文件名
-current_dir =  os.path.join(os.getcwd(), 'playlist')
+current_dir =  os.path.join(os.getcwd(), './')
 
 for file_name in os.listdir(current_dir):
     if re.match(m3u_pattern, file_name):
