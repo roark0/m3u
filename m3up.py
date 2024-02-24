@@ -25,7 +25,7 @@ def parse_and_filter_m3u(url,  sort='name', filter='GOOD'):
 
     parser.remove_duplicates()
 
-    # parser.filter_by('status', filter)
+    parser.filter_by('status', filter)
 
     # Get the list of streams
     streams = parser.get_list()
